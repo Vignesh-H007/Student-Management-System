@@ -1,5 +1,5 @@
 # student_management_gui.py
-# Replace console app with this Tkinter GUI (uses student_info.db / students table)
+
 import sqlite3
 import re
 import tkinter as tk
